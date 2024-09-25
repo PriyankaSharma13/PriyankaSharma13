@@ -8,7 +8,7 @@
 - 💬 Ask me about **Html, CSS , Javascript, TypeScript, React, React Native, ReactNative, Nodejs, Express, MongoDB.**
 - 🖥️ I use Operating System Windows and Mac.
 - 📫 How to reach me **priyankasharma4914@gmail.com**
--😄 Pronouns: She/Her
+- 😄 Pronouns: She/Her
 
 <h3 align="left">Languages and Tools:</h3>
 
