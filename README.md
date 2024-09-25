@@ -8,6 +8,7 @@
 - 💬 Ask me about **Html, CSS , Javascript, TypeScript, React, React Native, ReactNative, Nodejs, Express, MongoDB.**
 - 🖥️ I use Operating System Windows and Mac.
 - 📫 How to reach me **priyankasharma4914@gmail.com**
+  
 -😄 Pronouns: She/Her
 
 <h3 align="left">Languages and Tools:</h3>
@@ -27,6 +28,15 @@
 </p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=priyankasharma13&show_icons=true&locale=en&layout=compact" alt="priyankasharma13" /></p>
+<p>
+  <div style="background-color: black; padding: 10px; display: inline-block;">
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=priyankasharma13&show_icons=true&locale=en&layout=compact" alt="priyankasharma13" />
+  </div>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=priyankasharma13&show_icons=true&locale=en" alt="priyankasharma13" /></p>
+<p>
+  <div style="background-color: black; padding: 10px; text-align: center; display: inline-block;">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=priyankasharma13&show_icons=true&locale=en" alt="priyankasharma13" />
+  </div>
+</p>
+
