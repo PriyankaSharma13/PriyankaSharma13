@@ -38,5 +38,5 @@
 </p>
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?username=priyankasharma13&theme=dark" alt="priyankasharma13" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?username=priyankasharma13&" alt="priyankasharma13" /></p>
 
