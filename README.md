@@ -28,20 +28,11 @@
 
 
 <p>
-    <div style="background-color: black; padding: 10px; display: inline-block;">
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=priyankasharma13&show_icons=true&theme=radical" alt="priyankasharma13" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=priyankasharma13&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="priyankasharma13" />
   </div>
 </p>
 
-<p>
-  <div style="background-color: black; padding: 10px; text-align: center; display: inline-block;">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=priyankasharma13&show_icons=true&theme=radical" alt="priyankasharma13" />
-  </div>
-</p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=priyankasharma13&show_icons=true&theme=radical" alt="priyankasharma13" /></p>
 
-<p>
-  <div style="background-color: black; padding: 10px; display: inline-block;">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=priyankasharma13&theme=dark" alt="priyankasharma13" />
-   </div>
-</p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=priyankasharma13&theme=tokyonight" alt="priyankasharma13"/></p>
 
